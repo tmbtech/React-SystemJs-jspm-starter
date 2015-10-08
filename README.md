@@ -13,7 +13,7 @@ apps that are compiled using babel in the browser
 
 ```js
 git clone https://github.com/tmbtech/React-SystemJs-jspm-starter.git
-cd React-SystemJs-jspm-start
+cd React-SystemJs-jspm-starter
 npm install
 jspm install
 npm install live-server -g
